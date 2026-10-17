@@ -1,0 +1,16 @@
+{
+  "scenario": "Paid-ad booking with recurring delivery questions",
+  "inputs": {
+    "booking_status": "confirmed",
+    "consent": "unknown",
+    "traffic_source": "paid",
+    "offer_facts": null,
+    "prospect_questions": ["What does delivery involve?"]
+  },
+  "expected": {
+    "status": "draft_requires_human_review",
+    "missing_inputs": ["consent", "approved offer facts", "booking time and timezone", "approved asset library"],
+    "may_explain": ["Confirmation breakout topics can follow real sales questions, citing clm_confirm_02"],
+    "must_not": ["send outreach", "invent delivery facts", "impose six daily emails", "claim guaranteed show-rate uplift"]
+  }
+}

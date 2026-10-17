@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-10-16",
+  "version": "0.4.0",
+  "sources": 450,
+  "claims": 37,
+  "by_kind": {
+    "youtube_video": 267,
+    "blog": 127,
+    "skill": 38,
+    "podcast": 8,
+    "official_site": 2,
+    "case_study": 2,
+    "youtube_channel": 1,
+    "interview": 2,
+    "appearance": 1,
+    "catalog": 2
+  },
+  "by_state": {
+    "metadata_reviewed": 436,
+    "extracted": 11,
+    "discovered": 3
+  },
+  "by_availability": {
+    "public_page": 424,
+    "search_result_only": 11,
+    "public_metadata_gated_body": 12,
+    "unknown": 3
+  },
+  "full_coverage_verified": false,
+  "official_videos_tab_snapshot": {
+    "observed_date": "2026-10-16",
+    "channel_url": "https://www.youtube.com/@JeremyHaynesTraining/videos",
+    "channel_id": "UCuzbImxdBNTUeolGXpLVL0A",
+    "header_video_count": 265,
+    "distinct_cards_collected": 265,
+    "id_set_fnv1a": "ecc1b61f",
+    "scope": "Currently public Videos tab, Latest order, scrolled to oldest displayed card",
+    "oldest_card_title": "Client Makes Bunch Of Money And Loves It",
+    "total_video_content_reviewed": false,
+    "exact_dates_for_all_videos": false,
+    "full_worldwide_coverage_verified": false,
+    "method": "Native browser; read visible card text and DOM-backed href attributes; no hidden state, API bypass, private content or media acquisition",
+    "full_title_duration_fnv1a": "4dce710b",
+    "checksum_scope": "Exact ordered video ID, title and displayed duration, tab-separated; FNV-1a is a transfer check, not a cryptographic integrity guarantee"
+  }
+}

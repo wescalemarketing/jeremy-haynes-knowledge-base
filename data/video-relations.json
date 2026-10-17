@@ -1,0 +1,692 @@
+[
+  {
+    "video_source_id": "src_a6f2074bf3235770",
+    "context_source_id": "src_0dbf01f8cdf4d0cb",
+    "relation": "official_page_links_to_video",
+    "link_title": "If You Want to Scale Your Business in 2026, Watch This",
+    "context_url": "https://jeremyhaynes.com/skills/competitive-advantages/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_54d5611fc1680118",
+    "context_source_id": "src_136d4cc40804f8a7",
+    "relation": "official_page_links_to_video",
+    "link_title": "Hidden VSSL Framework",
+    "context_url": "https://jeremyhaynes.com/skills/hidden-vssl-framework/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_35f6332cfb6c374a",
+    "context_source_id": "src_1ff1bc14de57e86c",
+    "relation": "official_page_links_to_video",
+    "link_title": "Generate 40-50 Calls Daily",
+    "context_url": "https://jeremyhaynes.com/skills/generate-40-50-calls-daily/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_4bd98d59e0cb50c2",
+    "context_source_id": "src_275fa7b24dda7017",
+    "relation": "official_page_links_to_video",
+    "link_title": "Why Your Call Funnel Sucks",
+    "context_url": "https://jeremyhaynes.com/skills/fix-your-call-funnel/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_1d554b118992cbc4",
+    "context_source_id": "src_27dd4f0cc16a731c",
+    "relation": "official_page_links_to_video",
+    "link_title": "Content Ads for Cold Traffic",
+    "context_url": "https://jeremyhaynes.com/skills/content-ads-cold-traffic/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_3c10a918693eb2a4",
+    "context_source_id": "src_2cf129be8a357c41",
+    "relation": "official_page_links_to_video",
+    "link_title": "Scale $200K to $1M/Month",
+    "context_url": "https://jeremyhaynes.com/skills/scale-200k-to-1m/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_4aa1dad8fd494bd0",
+    "context_source_id": "src_39e14fb9d9009015",
+    "relation": "official_page_links_to_video",
+    "link_title": "Confirmation Page That Converts",
+    "context_url": "https://jeremyhaynes.com/skills/confirmation-page-that-converts/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_67b61466a58dea2d",
+    "context_source_id": "src_3d1229fed1f2a154",
+    "relation": "official_page_links_to_video",
+    "link_title": "VSL That Converts",
+    "context_url": "https://jeremyhaynes.com/skills/vsl-that-converts/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_49dc526871f593c2",
+    "context_source_id": "src_57d5621d56081a2a",
+    "relation": "official_page_links_to_video",
+    "link_title": "Recruit Top Closers",
+    "context_url": "https://jeremyhaynes.com/skills/recruit-top-closers/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_3c23b965d36612a1",
+    "context_source_id": "src_65ee1fa9fd0fcfc6",
+    "relation": "official_page_links_to_video",
+    "link_title": "Meta Ad Restrictions Prep",
+    "context_url": "https://jeremyhaynes.com/skills/meta-ad-restrictions-prep/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_00cf803251314eb1",
+    "context_source_id": "src_81a79ff34178d0ff",
+    "relation": "official_page_links_to_video",
+    "link_title": "Multiple Funnels to Scale",
+    "context_url": "https://jeremyhaynes.com/skills/multiple-funnels-to-scale/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_907e634c721fe1a6",
+    "context_source_id": "src_941d586c1ed3ccc2",
+    "relation": "official_page_links_to_video",
+    "link_title": "Fix Revenue Plateau",
+    "context_url": "https://jeremyhaynes.com/skills/fix-revenue-plateau/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_76345d48cd2aae48",
+    "context_source_id": "src_9bc2c27f528abf3a",
+    "relation": "official_page_links_to_video",
+    "link_title": "Call Funnel Blueprint",
+    "context_url": "https://jeremyhaynes.com/skills/call-funnel-blueprint/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_a7e5919fcd923864",
+    "context_source_id": "src_9cbc401601de5a4d",
+    "relation": "official_page_links_to_video",
+    "link_title": "Scale $100K to $1M/Month",
+    "context_url": "https://jeremyhaynes.com/skills/scale-100k-to-1m/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_4c8073d237b5426a",
+    "context_source_id": "src_a2513f3c81345319",
+    "relation": "official_page_links_to_video",
+    "link_title": "Scaling Ads to $15K/Day",
+    "context_url": "https://jeremyhaynes.com/skills/scaling-ads-15k-day/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_0e50cc5d72ded0ca",
+    "context_source_id": "src_dafaa00d55c1b4b6",
+    "relation": "official_page_links_to_video",
+    "link_title": "Pixel Conditioning",
+    "context_url": "https://jeremyhaynes.com/skills/pixel-conditioning/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_fe305c6168c22ddd",
+    "context_source_id": "src_ea201ee430d38576",
+    "relation": "official_page_links_to_video",
+    "link_title": "Low Ticket to High Ticket Ascension Mastery",
+    "context_url": "https://jeremyhaynes.com/skills/low-ticket-to-high-ticket/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_f6b92b07c75285ab",
+    "context_source_id": "src_f550be0429a36dfd",
+    "relation": "official_page_links_to_video",
+    "link_title": "Venus Fly Trap Ad Strategy",
+    "context_url": "https://jeremyhaynes.com/skills/venus-fly-trap-ad-strategy/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_f1ff06f8ec92b25a",
+    "context_source_id": "src_0f2e977532f432c3",
+    "relation": "official_page_links_to_video",
+    "link_title": "New Facebook Ads Algorithm Update Is Killing Sales (Do This ASAP)",
+    "context_url": "https://jeremyhaynes.com/facebook-algorithm-update-showing-prospects-all-competitors-how-to-adapt/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_7a30eeed17bd90a9",
+    "context_source_id": "src_11434f0110f9197d",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Structure Content For High-Converting 3-Day Events",
+    "context_url": "https://jeremyhaynes.com/complete-3-day-virtual-event-content-structure-that-converts/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_c0f30221b1e5b4e9",
+    "context_source_id": "src_1cc53d31d7f28767",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Build Webinar Funnels That Consistently Convert High-Ticket Clients",
+    "context_url": "https://jeremyhaynes.com/how-to-run-profitable-webinar-funnels-for-high-ticket-sales/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_472c7fb70b8c58e3",
+    "context_source_id": "src_1cd7d75cd536e34b",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Drastically Reduce Your Cost Per Call (While Scaling Ad Spend)",
+    "context_url": "https://jeremyhaynes.com/reduce-cost-per-call-bottleneck-analysis-high-ticket/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_f27ca8e75cbc2b9e",
+    "context_source_id": "src_1f2a1392eca8af3a",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Most Valuable Call Funnel Training You&apos;ll Ever Watch",
+    "context_url": "https://jeremyhaynes.com/call-funnel-training-cold-paid-traffic/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_206a755c501eb053",
+    "context_source_id": "src_37658d4ea50aabf7",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Take Aggressive Action Like The Top 0.1% Of Entrepreneurs",
+    "context_url": "https://jeremyhaynes.com/how-to-overcome-analysis-paralysis-and-take-action-without-absolute-certainty/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_4475e76cef10399b",
+    "context_source_id": "src_3b6bbc61b889885a",
+    "relation": "official_page_links_to_video",
+    "link_title": "Scaling To $1M/Month Is A Gamble, Here’s How You Win",
+    "context_url": "https://jeremyhaynes.com/scaling-million-dollar-months-advertising-strategy/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_58a23b20027d6897",
+    "context_source_id": "src_3c6ef716b58e4b97",
+    "relation": "official_page_links_to_video",
+    "link_title": "The NEW Way To Scale Ads with Meta&apos;s Andromeda Update",
+    "context_url": "https://jeremyhaynes.com/facebook-andromeda-algorithm-update-guide-for-ad-targeting-and-creative-strategy/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_f92acfd5343fd7a8",
+    "context_source_id": "src_3ee59be2f4656dc1",
+    "relation": "official_page_links_to_video",
+    "link_title": "If You Want To Blow Up Your Organic With Paid Ads, Watch This",
+    "context_url": "https://jeremyhaynes.com/if-you-want-to-blow-up-your-organic-with-paid-ads-read-this/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_2af73f1b8006d644",
+    "context_source_id": "src_4588c249e9821fc7",
+    "relation": "official_page_links_to_video",
+    "link_title": "Cold Strangers Pay in Full FAST When You Have THESE Systems",
+    "context_url": "https://jeremyhaynes.com/how-to-get-high-ticket-pay-in-full-sales-from-cold-traffic/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_cd41493e85715e38",
+    "context_source_id": "src_4a925a8e22b4c53e",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Make Your Fulfillment Better Than 99% Of Businesses (At Scale)",
+    "context_url": "https://jeremyhaynes.com/build-scalable-fulfillment-system-low-churn-seven-figures/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_8fcbd9bfebe72347",
+    "context_source_id": "src_4c48b97c483fb899",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Last Video You’ll Ever Need On Confirmation Pages",
+    "context_url": "https://jeremyhaynes.com/confirmation-page-training-buyer-education/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_c523aff672dab8e7",
+    "context_source_id": "src_4d83b9154f599e0e",
+    "relation": "official_page_links_to_video",
+    "link_title": "Ranking The Best & Worst Marketing Funnels To Scale Your Business",
+    "context_url": "https://jeremyhaynes.com/best-sales-funnels-high-ticket-ranked/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_4b898ed554c93c50",
+    "context_source_id": "src_525f9e53cb670877",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Most Valuable Meta Ads Training You&apos;ll Ever Watch",
+    "context_url": "https://jeremyhaynes.com/meta-ads-scaling-messaging-pixel-quality/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_0cc68d77fa682119",
+    "context_source_id": "src_6a2e16b56487e748",
+    "relation": "official_page_links_to_video",
+    "link_title": "Asking Business Owners How They Scaled to $1M/Month",
+    "context_url": "https://jeremyhaynes.com/five-million-month-business-growth-levers/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_d7e94a9e89432883",
+    "context_source_id": "src_6d315e39c58a39d2",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Best Way To Test Ad Creatives At Every Budget ($500–$10K+/Day)",
+    "context_url": "https://jeremyhaynes.com/facebook-ad-creative-testing-strategy-for-budgets-from-500-to-30k-plus-daily/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_ecbdae607e28de24",
+    "context_source_id": "src_72d60429ec2d7664",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Exact Process Of Scaling To $1M/Month (Step-By-Step)",
+    "context_url": "https://jeremyhaynes.com/scaling-to-million-dollar-months-step-by-step/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_1034d6548df805af",
+    "context_source_id": "src_735e51182e0c776f",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Facebook Ads Cheat Code You Need To Know Yesterday",
+    "context_url": "https://jeremyhaynes.com/facebook-ads-machine-learning-campaign-waves-buckets/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_11634b3ef1524790",
+    "context_source_id": "src_73c1daaab689da54",
+    "relation": "official_page_links_to_video",
+    "link_title": "The SMART Way To Scale To $1M/Month (Without Burning Cash)",
+    "context_url": "https://jeremyhaynes.com/common-business-scaling-mistakes-that-destroy-profitable-seven-figure-companies/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_84926fc8019902ae",
+    "context_source_id": "src_77a37c7407e69549",
+    "relation": "official_page_links_to_video",
+    "link_title": "Exactly How I&apos;d Scale A Business To $1M/Month (Step-By-Step)",
+    "context_url": "https://jeremyhaynes.com/step-by-step-guide-to-scale-your-business-to-1-million-monthly-revenue/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_9b62453524a48bb4",
+    "context_source_id": "src_7b08f3caeb6eca62",
+    "relation": "official_page_links_to_video",
+    "link_title": "Why Your Sales Team Can&apos;t Close (And How To Fix It)",
+    "context_url": "https://jeremyhaynes.com/stop-sales-marketing-blame-improve-close-rate/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_4794f60d85ea5235",
+    "context_source_id": "src_7d1d95477237aebd",
+    "relation": "official_page_links_to_video",
+    "link_title": "The ONLY System You Need To Get 80%+ Of People To Show Up",
+    "context_url": "https://jeremyhaynes.com/how-to-get-an-80-show-rate-for-sales-calls-using-four-backend-systems/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_2d2da35e02c2c484",
+    "context_source_id": "src_805c7bf721c52f16",
+    "relation": "official_page_links_to_video",
+    "link_title": "Why Making Your Offer More \"Exclusive\" Will Blow Up Your Sales",
+    "context_url": "https://jeremyhaynes.com/the-power-of-exclusivity-when-scaling-to-million-dollar-months/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_db56b591412bab2c",
+    "context_source_id": "src_80a9bed7516e4826",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Only Paid Advertising Strategy You Need To Scale Your Business",
+    "context_url": "https://jeremyhaynes.com/hammer-them-advertising-strategy/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_acccc91019f303e1",
+    "context_source_id": "src_851d979461b24f7e",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Pack Your Calendar With Qualified Sales Calls (After Generating 10,000+)",
+    "context_url": "https://jeremyhaynes.com/how-to-generate-qualified-sales-calls-and-improve-lead-quality/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_3f38d8b125ee913d",
+    "context_source_id": "src_8a7f6a200e7c8f8b",
+    "relation": "official_page_links_to_video",
+    "link_title": "Why You NEED to Go All In on Paid Ads For Your Business",
+    "context_url": "https://jeremyhaynes.com/why-aggressive-paid-advertising-investment-accelerates-business-growth/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_ecf10cc0c895d2d4",
+    "context_source_id": "src_8cb016fa6b2bc99a",
+    "relation": "official_page_links_to_video",
+    "link_title": "Meta’s NEW Andromeda Update Is Skyrocketing Ad Costs (Do THIS Now)",
+    "context_url": "https://jeremyhaynes.com/facebook-ad-costs-through-the-roof-heres-what-actually-changed/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_8ef24cf4ced4e3ef",
+    "context_source_id": "src_8f0f1ba95dbd2daa",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Launch & Scale A Webinar Funnel From Scratch (No BS Guide)",
+    "context_url": "https://jeremyhaynes.com/launch-scale-webinar-funnel-million-dollar-months/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_af9e710bf0ee360b",
+    "context_source_id": "src_90f4d50ac35786c3",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Build A Profitable Low-To-High Ticket Funnel (Step-By-Step)",
+    "context_url": "https://jeremyhaynes.com/low-ticket-to-high-ticket-funnel-liquidate-ad-spend/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_9a1297d346204273",
+    "context_source_id": "src_9217809aaccb66f7",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To UnF**k Your Beliefs So You Can Actually Scale",
+    "context_url": "https://jeremyhaynes.com/how-to-identify-and-fix-limiting-beliefs-that-block-million-dollar-growth/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_0afc5a7f802b16ae",
+    "context_source_id": "src_93dc7061030852ca",
+    "relation": "official_page_links_to_video",
+    "link_title": "THIS System Makes Cold Leads Show Up Ready To Buy (Steal It)",
+    "context_url": "https://jeremyhaynes.com/backend-selling-system-to-increase-show-rates-close-rates-and-sales-call-quality/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_9262bb2dbe8c99d5",
+    "context_source_id": "src_9a326f311c48e59d",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Master Cold Paid Advertising To Scale Consistently (Nobody Teaches This)",
+    "context_url": "https://jeremyhaynes.com/cold-paid-advertising-strategy-to-scale-from-100k-to-million-dollar-months/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_24afa1f42fbdd9c2",
+    "context_source_id": "src_9d5b206a6742aace",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Create & Sell High-Ticket Recurring Offers (Full Breakdown)",
+    "context_url": "https://jeremyhaynes.com/how-to-create-high-ticket-recurring-offers/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_e8fba83cd1f095e8",
+    "context_source_id": "src_a66fadc9c01666f1",
+    "relation": "official_page_links_to_video",
+    "link_title": "48 Mins Of The BEST Marketing Strategies You Needed To Know Yesterday",
+    "context_url": "https://jeremyhaynes.com/from-300k-to-1-77m-in-4-months-real-sales-marketing-lessons-that-actually-work/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_5f9209b74034bb66",
+    "context_source_id": "src_a8316c0d8961b2e3",
+    "relation": "official_page_links_to_video",
+    "link_title": "Rewire Yourself To Think Like Top 0.1% Entrepreneur In 26 Mins",
+    "context_url": "https://jeremyhaynes.com/millionaire-mindset-and-wealth-building-psychology-for-seven-figure-earners/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_7f7f9efe17192098",
+    "context_source_id": "src_ae9a0051f72b578b",
+    "relation": "official_page_links_to_video",
+    "link_title": "Steal This Checklist To Instantly Increase Your Show Rates",
+    "context_url": "https://jeremyhaynes.com/how-to-optimize-your-show-rates-to-reach-million-dollar-months/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_8829ba0d66d7b18b",
+    "context_source_id": "src_b216c5ddd04b7f54",
+    "relation": "official_page_links_to_video",
+    "link_title": "Give Me 25 Minutes, And I&apos;ll Blow Up Your Call Funnel With Qualified Buyers",
+    "context_url": "https://jeremyhaynes.com/how-to-blow-up-your-call-funnel-with-qualified-buyers-fast/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_8dfc71a554fd9b2f",
+    "context_source_id": "src_b51129ed957318ee",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Keep Your Ad Costs Predictable While Scaling Fast",
+    "context_url": "https://jeremyhaynes.com/how-to-scale-facebook-ads-to-1-million-monthly-revenue-without-cost-spikes/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_e68feeba04ed15d2",
+    "context_source_id": "src_b9cc9b557ea297df",
+    "relation": "official_page_links_to_video",
+    "link_title": "The KPIs You Must Track To Succeed With Challenge Funnels",
+    "context_url": "https://jeremyhaynes.com/essential-kpi-benchmarks-and-metrics-for-challenge-funnel-success/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_29000b2337796dd0",
+    "context_source_id": "src_bbbdd2cdeda56135",
+    "relation": "official_page_links_to_video",
+    "link_title": "11 Years Of Brutally Honest Marketing Lessons In 23 Mins",
+    "context_url": "https://jeremyhaynes.com/marketing-lessons-for-scaling-to-million-dollar-months/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_f2eca8c144588f84",
+    "context_source_id": "src_c6cea4bb4792c365",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Run A 60-Day Promo Cycle For Challenge Funnels",
+    "context_url": "https://jeremyhaynes.com/complete-60-day-promotion-timeline-for-challenge-funnel-events/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_17ba6be94709a1f2",
+    "context_source_id": "src_cc805027cbdfff6c",
+    "relation": "official_page_links_to_video",
+    "link_title": "The EXACT System To Convert \"Dead Leads\" Into High-Ticket Sales",
+    "context_url": "https://jeremyhaynes.com/how-to-convert-dead-leads-into-high-ticket-sales-with-group-closing-calls/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_a43d18c861822733",
+    "context_source_id": "src_d770045c552045a5",
+    "relation": "official_page_links_to_video",
+    "link_title": "This Video Should Be Required Viewing If You Want To Scale Your Business",
+    "context_url": "https://jeremyhaynes.com/how-to-scale-your-business-from-100k-to-1-million-per-month/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_40d1655ebfc29de3",
+    "context_source_id": "src_da2feac6d16ffd66",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Spot A Real vs Sh*t Marketer... Before They Torch Your Budget",
+    "context_url": "https://jeremyhaynes.com/vet-agencies-marketers-before-hiring-protect-ad-budget/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_ebd1526783c04027",
+    "context_source_id": "src_e4375ab463565456",
+    "relation": "official_page_links_to_video",
+    "link_title": "Here&apos;s How I&apos;d Take This $300K/Mo Sales Coach To $1M/Mo (Live)",
+    "context_url": "https://jeremyhaynes.com/sales-training-business-growth-plan-300k-1m/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_2b64e9aa029fb2d3",
+    "context_source_id": "src_ec47d95a35c98278",
+    "relation": "official_page_links_to_video",
+    "link_title": "How “Funnel Friction” Massively Impacts Buyer Intent (Full Breakdown)",
+    "context_url": "https://jeremyhaynes.com/how-funnel-friction-and-intent-levels-impact-your-scale-potential/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_846d1c69b6152319",
+    "context_source_id": "src_ee2dc6e26a760537",
+    "relation": "official_page_links_to_video",
+    "link_title": "If I Wanted to Hit $1M/Month in 2026, This Is What I’d Do",
+    "context_url": "https://jeremyhaynes.com/million-dollar-month-business-plan/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_029a900324f29903",
+    "context_source_id": "src_f2ae5ab83284151a",
+    "relation": "official_page_links_to_video",
+    "link_title": "How To Master Messaging To Attract ONLY Qualified Buyers (Live Breakdowns)",
+    "context_url": "https://jeremyhaynes.com/attract-wealthy-buyers-with-environment-and-messaging/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_13e23cb49a2f7448",
+    "context_source_id": "src_fb77abefe8b01db9",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Highest Impact Levers That Actually Move The Needle In Your Business",
+    "context_url": "https://jeremyhaynes.com/how-to-add-six-figures-monthly-revenue-to-your-existing-business/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_2261e5b34727bc0c",
+    "context_source_id": "src_fce63be864b085bd",
+    "relation": "official_page_links_to_video",
+    "link_title": "Give Me 43 Mins, I’ll Show You How To Launch A Call Funnel From Scratch",
+    "context_url": "https://jeremyhaynes.com/launch-call-funnel-from-scratch-book-sales-calls-daily/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  },
+  {
+    "video_source_id": "src_7e0202b44ebeb14e",
+    "context_source_id": "src_ffcce87b7927c45c",
+    "relation": "official_page_links_to_video",
+    "link_title": "The Perfect Sales Page Layout For Challenge Funnels",
+    "context_url": "https://jeremyhaynes.com/challenge-funnel-sales-page-structure-and-layout-best-practices/",
+    "observed_date": "2026-10-16",
+    "confidence": "high_for_link_presence_not_content_equivalence",
+    "notes": "Official reference link, not proof of exact transcript equivalence or independent corroboration."
+  }
+]

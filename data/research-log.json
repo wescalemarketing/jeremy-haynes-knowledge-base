@@ -1,0 +1,96 @@
+{
+  "observed_date": "2026-10-16",
+  "timezone": "America/Bogota",
+  "methods": [
+    "Read referenced ChatGPT conversation latest 10 turns; no older cursor returned",
+    "Inspect local workspace and search local project mirrors for legacy workbook",
+    "Read official homepage outbound links and skills catalog",
+    "Resolve all 38 official skills landing links",
+    "Request blog archive pages 1 through 64 via public web tool",
+    "Resolve 138 listed article links in batches; 134 usable document observations",
+    "Targeted official-site and third-party appearance discovery"
+  ],
+  "queries": [
+    "Jeremy Haynes official website YouTube blog",
+    "Jeremy Haynes podcast interview marketing pre call",
+    "Jeremy Haynes public skills github",
+    "site:youtube.com/watch Jeremy Haynes Hammer",
+    "Jeremy Haynes podcast interview -site:jeremyhaynes.com -site:moderncreator.app",
+    "Jeremy Haynes filetype:pdf",
+    "site:jeremyhaynes.com case study",
+    "site:youtube.com/watch JeremyHaynesTraining",
+    "site:youtube.com/watch Jeremy Haynes podcast",
+    "site:jeremyhaynes.com filetype:pdf",
+    "site:megalodonmarketing.agency case",
+    "Jeremy Haynes YouTube Hammer Them strategy",
+    "Jeremy Haynes YouTube interview podcast Fresh Fit"
+  ],
+  "access_failures": [
+    {
+      "url": "https://jeremyhaynes.com/robots.txt",
+      "method": "direct public HTTP request",
+      "result": "HTTP 403; stopped direct collection; no identity rotation or bypass"
+    },
+    {
+      "url": "https://jeremyhaynes.com/wp-sitemap.xml",
+      "method": "public web tool",
+      "result": "inaccessible"
+    },
+    {
+      "url": "https://jeremyhaynes.com/post-sitemap.xml",
+      "method": "public web tool",
+      "result": "inaccessible"
+    },
+    {
+      "url": "https://www.youtube.com/@JeremyHaynesTraining/videos",
+      "result": "stale footer only; no video inventory"
+    }
+  ],
+  "excluded_identity_examples": [
+    {
+      "url": "https://www.drummersresource.com/jeremy-haynes-interview/",
+      "reason": "Different Jeremy Haynes, professional drummer"
+    },
+    {
+      "url": "https://www.ca4.uscourts.gov/opinions/256668.U.pdf",
+      "reason": "Robert Jeremy Haynes; no demonstrated identity match to marketer"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/CREC-2015-04-29/pdf/CREC-2015-04-29.pdf",
+      "reason": "Captain Jeremy Haynes; no demonstrated marketer identity"
+    },
+    {
+      "url": "https://www.ubba.com/wp-content/uploads/2022/10/Anterix-EPRI-UBBA-Technical-Session_10112022_Final.pdf",
+      "reason": "Telecom presenter; no demonstrated marketer identity"
+    }
+  ],
+  "restricted_material_not_acquired": [
+    {
+      "name": "What Is Ad Fatigue PDF SOP",
+      "mention_url": "https://jeremyhaynes.com/scaling-to-million-dollar-months-step-by-step/",
+      "reason": "Described as student/group resource; no public authorized file established"
+    }
+  ],
+  "limitations": [
+    "Browser references in discovery staging are transient; use canonical URLs and stable headings for durable citations",
+    "No raw article/transcript archive retained",
+    "Cached archive pages are not a coherent crawl snapshot",
+    "Queries do not establish exhaustive coverage"
+  ],
+  "v0.3_expansion": {
+    "method": "Native browser channel enumeration after cached web limitations",
+    "channel_video_cards": 265,
+    "header_video_count": 265,
+    "official_video_context_relations": 69,
+    "new_reviewed_context_claims": 26,
+    "new_reviewed_articles": 7,
+    "transcript_check": "Hammer Them public Show transcript control opened, but panel did not return text; no transcript ingested",
+    "source_date_example": "Hammer Them watch-page date 2025-01-08 differs from companion article date 2026-02-06; preserve both",
+    "remaining_gaps": [
+      "Exact release dates for most channel videos",
+      "Transcript review and verified spoken timecodes",
+      "Third-party originating media verification",
+      "Secondary daily-clips channel @TheHaynesFeed not inventoried"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{"expected_claim_ids": ["clm_confirm_01"], "id": "eval_1", "query": "confirmation trust urgency"}
+{"expected_claim_ids": ["clm_confirm_02"], "id": "eval_2", "query": "breakout questions quantity"}
+{"expected_claim_ids": ["clm_confirm_03"], "id": "eval_3", "query": "engagement measurement play rate"}
+{"expected_claim_ids": ["clm_fix_01"], "id": "eval_4", "query": "call funnel financial diagnosis"}
+{"expected_claim_ids": ["clm_hammer_01"], "id": "eval_5", "query": "hammer library quantity"}
+{"expected_claim_ids": ["clm_hammer_02"], "id": "eval_6", "query": "hammer window timing"}
+{"expected_claim_ids": [], "id": "eval_7", "query": "quantum zebracorn"}
+{"expected_claim_ids": ["clm_friction_v03_01"], "id": "eval_8", "query": "friction volume capacity"}
+{"expected_claim_ids": ["clm_ascension_v03_03"], "id": "eval_9", "query": "ascension activation consumption"}
+{"expected_claim_ids": ["clm_creative_v03_01"], "id": "eval_10", "query": "creative surplus production"}
+{"expected_claim_ids": ["clm_pixel_v03_02"], "id": "eval_11", "query": "pixel conversion signal"}
+{"expected_claim_ids": ["clm_webinar_v03_03"], "id": "eval_12", "query": "webinar math attendance"}
+{"expected_claim_ids": ["clm_bench_v03_01"], "id": "eval_13", "query": "sales bench readiness"}
+{"expected_claim_ids": ["clm_followup_v03_03"], "id": "eval_14", "query": "followup CRM measurement"}

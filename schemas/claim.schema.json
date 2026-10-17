@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Atomic attributed claim",
+  "type": "object",
+  "required": [
+    "id",
+    "source_id",
+    "paraphrase",
+    "locator",
+    "start_seconds",
+    "end_seconds",
+    "topics",
+    "claim_type",
+    "attribution_confidence",
+    "empirical_confidence",
+    "scope",
+    "review_state",
+    "observed_date"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^clm_"
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^src_[a-f0-9]{16}$"
+    },
+    "paraphrase": {
+      "type": "string",
+      "minLength": 1
+    },
+    "locator": {
+      "type": "string",
+      "minLength": 1
+    },
+    "start_seconds": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "end_seconds": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "claim_type": {
+      "enum": [
+        "attributed_recommendation",
+        "self_reported_result",
+        "researcher_inference",
+        "empirical_finding"
+      ]
+    },
+    "attribution_confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "empirical_confidence": {
+      "enum": [
+        "unverified",
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "scope": {
+      "type": "string"
+    },
+    "review_state": {
+      "enum": [
+        "reviewed_paraphrase",
+        "needs_review"
+      ]
+    },
+    "observed_date": {
+      "type": "string",
+      "format": "date"
+    }
+  },
+  "additionalProperties": true
+}

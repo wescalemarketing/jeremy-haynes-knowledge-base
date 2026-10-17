@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jeremy Haynes Knowledge"
+  short_description: "Search public frameworks and videos with citations"
+  default_prompt: "Use $jeremy-haynes-knowledge to answer this marketing question with source citations and explicit evidence limits."
+policy:
+  allow_implicit_invocation: true

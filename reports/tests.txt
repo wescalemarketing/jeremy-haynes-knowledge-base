@@ -1,0 +1,25 @@
+test_manifest_rejects_modified_package_file (test_install.InstallerSafetyTests) ... ok
+test_manifest_rejects_parent_traversal (test_install.InstallerSafetyTests) ... ok
+test_unsupported_query_does_not_invent_evidence (test_install.InstallerSafetyTests) ... ok
+test_bad_and_future_dates_rejected (test_kb.KnowledgeBaseTests) ... ok
+test_channel_snapshot_duration_is_explicitly_rounded (test_kb.KnowledgeBaseTests) ... ok
+test_channel_snapshot_rejects_count_mismatch (test_kb.KnowledgeBaseTests) ... ok
+test_conflicting_batch_cannot_partially_modify_ledger (test_kb.KnowledgeBaseTests) ... ok
+test_context_search_preserves_article_citation_and_video_navigation (test_kb.KnowledgeBaseTests) ... ok
+test_credentials_and_non_web_urls_rejected (test_kb.KnowledgeBaseTests) ... ok
+test_full_ledger_and_claim_references (test_kb.KnowledgeBaseTests) ... ok
+test_ingestion_idempotent (test_kb.KnowledgeBaseTests) ... ok
+test_metadata_does_not_become_evidence (test_kb.KnowledgeBaseTests) ... ok
+test_podcast_episode_id_is_preserved (test_kb.KnowledgeBaseTests) ... ok
+test_retrieval_smoke (test_kb.KnowledgeBaseTests) ... ok
+test_search_handles_operators_and_sql_text (test_kb.KnowledgeBaseTests) ... ok
+test_title_similarity_only_reports_candidates (test_kb.KnowledgeBaseTests) ... ok
+test_unavailable_content_cannot_be_extracted (test_kb.KnowledgeBaseTests) ... ok
+test_youtube_aliases_share_identity (test_kb.KnowledgeBaseTests) ... ok
+test_youtube_channel_mismatch_rejected (test_kb.KnowledgeBaseTests) ... ok
+test_youtube_duplicates_and_incomplete_page_report (test_kb.KnowledgeBaseTests) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.159s
+
+OK

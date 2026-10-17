@@ -1,0 +1,321 @@
+{
+  "version": "0.4.0",
+  "date": "2026-10-16",
+  "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "bytes": 445,
+      "sha256": "07cb5ba6164aa8b38fff94e2fe310124ae3a1fe9891451b31ed798f5f70a67a0"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 151,
+      "sha256": "225849c1b8b39c7f747c9dabec56c17a6d397ba3090c9ca4fd19ac64e10fe2b1"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 615,
+      "sha256": "c4ab33111ffb30153ab2375c972cd22063f75329cde551aeda1296c2530f2ead"
+    },
+    {
+      "path": "AGENT_START.md",
+      "bytes": 2397,
+      "sha256": "c513fcf5faea13486ad2b963addffbf9136548cd7431e1fae627cda83fb47e90"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1309,
+      "sha256": "53bc64f4474a81ce4d6a6c5f030b85c7fed4fdbb943cf2953f77a93f95fef7b3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5461,
+      "sha256": "ce3acd0f8ce3e816defe2e0f49ea5c0fd1709581545a36d201de96077ecb2e3c"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 1772,
+      "sha256": "886ea17e25382eb47147bdb132b62b514617c9daf3a1e822b4ee2a7c77530ab3"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 6,
+      "sha256": "40b8eb4000a913a7791090535f291d3d369874162a89ef3c9e3d4e887a1b9e79"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 304,
+      "sha256": "e41808ab8a4731d30fe03334e0c24fce15544002b69a54b983031c9e687aaefd"
+    },
+    {
+      "path": "data/additional-discovery.json",
+      "bytes": 930,
+      "sha256": "deeab9b4bbb4fa4cd6699b9eee0a966ae56806e7bc6a63f2a44c33fb858f44bd"
+    },
+    {
+      "path": "data/blog-link-audit.json",
+      "bytes": 46531,
+      "sha256": "2df58224516685abe87efa7f5d73d1ce5a796c48d5133cca6a2c3459f7751056"
+    },
+    {
+      "path": "data/blog-page-audit.json",
+      "bytes": 14162,
+      "sha256": "7dce2d3255686d31fbbe78457c8ced978f3626c8f57aa68a8320059445bbf9bb"
+    },
+    {
+      "path": "data/changes-v0.3.json",
+      "bytes": 7450,
+      "sha256": "51b3a235da582871504268ca5f3be82a0425c2ad5c82fbc324e0f4ac03890bf3"
+    },
+    {
+      "path": "data/channel-snapshot-audit.json",
+      "bytes": 885,
+      "sha256": "70266ac341640befaab6da94823384e199d287346f590f70358ac5a54c20ce11"
+    },
+    {
+      "path": "data/channel-videos-2026-10-16.tsv",
+      "bytes": 23008,
+      "sha256": "a67932f3c5ff2f47279855a90580a144c1d76b257b460f3d318ab2f43a5d0ba0"
+    },
+    {
+      "path": "data/chapters.jsonl",
+      "bytes": 2754,
+      "sha256": "ae43bd2df4a0af2f82168db2401189b2ebd0576151c66ed36329a7df5d9f03bf"
+    },
+    {
+      "path": "data/claims.jsonl",
+      "bytes": 25988,
+      "sha256": "58ed768b2d3bb614f19c97a989babf5dc5b4fd90f329ac925014bf171049c711"
+    },
+    {
+      "path": "data/context-briefs.json",
+      "bytes": 3734,
+      "sha256": "99a8c91c62f75eeb219621e094f981eb768b22f6209bf179f5dafc07524ba614"
+    },
+    {
+      "path": "data/discovery.json",
+      "bytes": 82387,
+      "sha256": "61ecd7fedfde27bc6c0d740cfd749e589abb0442762d2516aaaec967c64dadf3"
+    },
+    {
+      "path": "data/evaluation.jsonl",
+      "bytes": 1370,
+      "sha256": "a01ecf44129f02d1118f221aaf73b06aff01e27d9501534a17b5000904c2a072"
+    },
+    {
+      "path": "data/frameworks.json",
+      "bytes": 5233,
+      "sha256": "6413bf6998f369f5d6255eccbbe72c36fb0b6fac414a367562971609b3a78b1c"
+    },
+    {
+      "path": "data/research-log.json",
+      "bytes": 4047,
+      "sha256": "18b889a5515d5b9e690a126bf1d55486c57c262b4a0a9bfabf801e573f71b57a"
+    },
+    {
+      "path": "data/source-aliases.json",
+      "bytes": 112,
+      "sha256": "5a4138c1b9644f25e326507a6b891b5d2a1e7f3d3e06def526b215120c02efff"
+    },
+    {
+      "path": "data/sources.jsonl",
+      "bytes": 505263,
+      "sha256": "0d33a23ffd6fa94a80d3f9290a6bd5476a5bace3258919a5c171dadb3baae7d8"
+    },
+    {
+      "path": "data/video-catalog.json",
+      "bytes": 144351,
+      "sha256": "5239f2ac7d09bca133a0c86d0b553e3b9d673128ad8ecc900e1ad586d8dcd20e"
+    },
+    {
+      "path": "data/video-link-discovery-v0.3.json",
+      "bytes": 48332,
+      "sha256": "0537af4f715a61fc2c3c70c6d4af28daa2d3a9adce1784e3c82eb80a82700e03"
+    },
+    {
+      "path": "data/video-relations.json",
+      "bytes": 37509,
+      "sha256": "1334f62809000c0f841be36b87de9d117e2ca7b26dc3ef962f170cc9107088bb"
+    },
+    {
+      "path": "docs/EVALUATION.md",
+      "bytes": 2592,
+      "sha256": "a4d2756f4a414a07a1d057b07e13c6254e7906c76984beae4a85c1ed7d982b14"
+    },
+    {
+      "path": "docs/INGESTION.md",
+      "bytes": 6136,
+      "sha256": "e3e9c196d6bd5cc547f1a743c2ae3992a998554e5904eb45e1326a8c0e685f08"
+    },
+    {
+      "path": "docs/PRECALL_AGENT.md",
+      "bytes": 4916,
+      "sha256": "d449d42aafc9a8ec924c78817473ed6005939573efdc75989ab7bd69af0ce80f"
+    },
+    {
+      "path": "docs/PUBLISHING.md",
+      "bytes": 1032,
+      "sha256": "0504ade98b05292bdcfce7ad1bdca72e93849eecaa0519bd7d733502bd6efa7b"
+    },
+    {
+      "path": "docs/RAG.md",
+      "bytes": 3487,
+      "sha256": "a0c2b247135ce71f2d061005f825307010c08354abb659657bbb267b3016cd03"
+    },
+    {
+      "path": "docs/RIGHTS.md",
+      "bytes": 1853,
+      "sha256": "869639cd4a5deaaa3b5f277bd7a2edb3906080c9d08a891ed7b451868acbffd7"
+    },
+    {
+      "path": "examples/precall-scenario.json",
+      "bytes": 674,
+      "sha256": "a9c791637fca733cb71733eae5dceebea7862f7ab6484adceba9be5a678c9782"
+    },
+    {
+      "path": "examples/precall-system-prompt.txt",
+      "bytes": 1100,
+      "sha256": "e40c9066c065855b1baf811b2395ea77c73148af24c7571c556104ac3b06c4d0"
+    },
+    {
+      "path": "install.py",
+      "bytes": 2869,
+      "sha256": "90c8759982150d2d98da6357de03626d7cffa5e9af5b4445ee69b1bf8aafc9e9"
+    },
+    {
+      "path": "reports/CONTEXT_GUIDE.md",
+      "bytes": 3949,
+      "sha256": "ee029da59d3073608bbee005c09c0a31f3866daf8c81fd1cdf5702a8b8ce1277"
+    },
+    {
+      "path": "reports/COVERAGE.md",
+      "bytes": 5550,
+      "sha256": "533fce10de0fb4d7bc15d6ce552fe1aacbcc2e57266f82dd8daa5f71e05cee6a"
+    },
+    {
+      "path": "reports/LEGACY_AUDIT.md",
+      "bytes": 2686,
+      "sha256": "d0d3b385ecd479f3a0434fe9832a46f15095e395df96e324c486369b58b1cca8"
+    },
+    {
+      "path": "reports/RELEASE.md",
+      "bytes": 706,
+      "sha256": "96da836d0c8cc75859280c3abd0b4864a0f6daeb6f5b36890f15380558c0f705"
+    },
+    {
+      "path": "reports/VIDEO_LIBRARY.md",
+      "bytes": 46866,
+      "sha256": "e74f346e2fd7efecefc88188bbf45ea727142b1aa1a760f07122fdab01df3fb2"
+    },
+    {
+      "path": "reports/archive/COVERAGE-v0.2.0.md",
+      "bytes": 5604,
+      "sha256": "b17c386c34421291b9e479bd76e143eaedc78c5ec90a5e5d0ea14a0e77725210"
+    },
+    {
+      "path": "reports/checks.json",
+      "bytes": 229,
+      "sha256": "cda26c2f026cef98b86f350a59cc0e58cb08724611466e103c912c47a3b5c7af"
+    },
+    {
+      "path": "reports/coverage.json",
+      "bytes": 1525,
+      "sha256": "7aef44755fdb8eb41b5d518fe652f5b6b09c8455f85c06d9b57d7f3fc3c159d5"
+    },
+    {
+      "path": "reports/duplicate-candidates.json",
+      "bytes": 2736,
+      "sha256": "0ac25bdb4cf152ff8a372614aab9d323b1def541fedad8e8ff29ccac26930b9b"
+    },
+    {
+      "path": "reports/evaluation.json",
+      "bytes": 3779,
+      "sha256": "fe32b64fac468c0753cc2935d3c4b3c630b8cd1ade1fb079aedb9fb4d6b51641"
+    },
+    {
+      "path": "reports/source-inventory.csv",
+      "bytes": 342110,
+      "sha256": "b9bc367dfb9779e7f17cbe80a27b07a45c25e4b387b6a7fab1f14bb9e875b5b2"
+    },
+    {
+      "path": "reports/tests.txt",
+      "bytes": 1690,
+      "sha256": "e8440997118ca8066458c4cc5a1b9627dca223bd36e8aca30080566c031aa801"
+    },
+    {
+      "path": "reports/validation.json",
+      "bytes": 37,
+      "sha256": "2b33ef04682ec1b49a02e4321715b5bc6e1db6ae05dd2c8659dd4ec72dba79e0"
+    },
+    {
+      "path": "reports/video-inventory.csv",
+      "bytes": 61476,
+      "sha256": "77a4faabcc5169bba1fcfd56f1deb9feb6990dd3d369ed1de61fbf03bbb08a22"
+    },
+    {
+      "path": "schemas/claim.schema.json",
+      "bytes": 1696,
+      "sha256": "d3a45fb7bbfa7d5046f038e44137a5503c6589c7fcca1ce86a86b2294a7f2ed4"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 1908,
+      "sha256": "b1fc3bb898ffbce39d2a66b3d42537fbb23d215e3e26ace53e29661e01f5e611"
+    },
+    {
+      "path": "tests/test_install.py",
+      "bytes": 1331,
+      "sha256": "57a0b254d48459389f57b236c7c2d7f973017546822ee4eb84815551dbafa3a3"
+    },
+    {
+      "path": "tests/test_kb.py",
+      "bytes": 6013,
+      "sha256": "76cbe9b411f171a494558e3de6eac0b4d605d54dbfe29356bdb6bea6441d1ff6"
+    },
+    {
+      "path": "tools/agent.py",
+      "bytes": 1948,
+      "sha256": "c8e486e85c93a1593cbde1ece03a40ee16ae8072b7993f2320b71681128f1468"
+    },
+    {
+      "path": "tools/audit_workbook.py",
+      "bytes": 2130,
+      "sha256": "86a306f7e765b92a3df6a0c0154d961034a6bfd442cf981828074f62982c8521"
+    },
+    {
+      "path": "tools/build_web.py",
+      "bytes": 1340,
+      "sha256": "888b84f0488d4e40bc64e3b2f454b284bea16641caf345cc62056c3be7987714"
+    },
+    {
+      "path": "tools/duplicate_candidates.py",
+      "bytes": 939,
+      "sha256": "5b6e7acb83b10213d83d9b9b3ed6068eb847ee7e6f92fa8f4a1a3810c302f567"
+    },
+    {
+      "path": "tools/import_channel_snapshot.py",
+      "bytes": 2999,
+      "sha256": "4ce9f2302d10c9008bb1904df992dc3dc1a48900fb735461428de9887f942555"
+    },
+    {
+      "path": "tools/import_youtube.py",
+      "bytes": 2626,
+      "sha256": "135e4434e6369130db9c2bc055257922d714ebf7b5baf23830dacd6d49ef09bb"
+    },
+    {
+      "path": "tools/kb.py",
+      "bytes": 11708,
+      "sha256": "195a6b0c185d515f84cea34ffeb14d3ea08f4048bcbc6ff1de134cef4479d4e6"
+    },
+    {
+      "path": "tools/video_catalog.py",
+      "bytes": 4364,
+      "sha256": "00b9e5c3744b5f6b05f8b7562f76d6215ef99a0a46d360bb37179e1f1d4552e9"
+    },
+    {
+      "path": "web/template.html",
+      "bytes": 15276,
+      "sha256": "fdb14ac0c9aababd0d9fca3b9f16a66f827ca8caf7b8cdcd0552b2525c6c7243"
+    }
+  ]
+}

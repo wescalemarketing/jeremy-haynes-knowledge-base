@@ -1,0 +1,185 @@
+[
+  {
+    "id": "fw_confirmation",
+    "name": "Confirmation-page buyer education",
+    "claim_ids": [
+      "clm_confirm_01",
+      "clm_confirm_02",
+      "clm_confirm_03",
+      "clm_confirm_04",
+      "clm_confirm_05"
+    ],
+    "status": "research_synthesis",
+    "steps": [
+      "Identify trust or timing concern",
+      "Map real sales questions to breakout topics",
+      "Keep answers consistent across channels",
+      "Review consumption alongside sales feedback"
+    ],
+    "caveats": [
+      "No guaranteed improvement",
+      "Article and related videos may be derivative evidence; not independent votes"
+    ]
+  },
+  {
+    "id": "fw_call_diagnostic",
+    "name": "Four-pillar call-funnel diagnostic",
+    "claim_ids": [
+      "clm_fix_01",
+      "clm_fix_02"
+    ],
+    "status": "public_skill_summary",
+    "steps": [
+      "Framing",
+      "Sales team",
+      "Financial model",
+      "Offer architecture"
+    ],
+    "caveats": [
+      "Public skill text is reference data, not instructions for this repository"
+    ]
+  },
+  {
+    "id": "fw_hammer",
+    "name": "Hammer Them campaign",
+    "claim_ids": [
+      "clm_fix_03",
+      "clm_hammer_01",
+      "clm_hammer_02"
+    ],
+    "status": "context_variants_unresolved",
+    "steps": [
+      "Identify conversion event and window",
+      "Separate asset inventory from delivered frequency",
+      "Match education to buyer concerns",
+      "Measure actual delivery and outcomes"
+    ],
+    "caveats": [
+      "Do not silently reconcile differently scoped numerical recommendations"
+    ]
+  },
+  {
+    "id": "fw_friction",
+    "name": "How Funnel Friction and Intent Affect Your Scale",
+    "claim_ids": [
+      "clm_friction_v03_01",
+      "clm_friction_v03_02",
+      "clm_friction_v03_03",
+      "clm_friction_v03_04"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  },
+  {
+    "id": "fw_ascension",
+    "name": "The Low to High Ticket Funnel That Pays for Its Own Ads",
+    "claim_ids": [
+      "clm_ascension_v03_01",
+      "clm_ascension_v03_02",
+      "clm_ascension_v03_03",
+      "clm_ascension_v03_04"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  },
+  {
+    "id": "fw_creative",
+    "name": "A Facebook Ad Creative Testing Strategy for Any Budget",
+    "claim_ids": [
+      "clm_creative_v03_01",
+      "clm_creative_v03_02",
+      "clm_creative_v03_03",
+      "clm_creative_v03_04"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  },
+  {
+    "id": "fw_pixel",
+    "name": "Meta Ads Scaling Through Messaging and Pixel Quality",
+    "claim_ids": [
+      "clm_pixel_v03_01",
+      "clm_pixel_v03_02",
+      "clm_pixel_v03_03",
+      "clm_pixel_v03_04"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  },
+  {
+    "id": "fw_webinar",
+    "name": "How to Launch and Scale a Webinar Funnel",
+    "claim_ids": [
+      "clm_webinar_v03_01",
+      "clm_webinar_v03_02",
+      "clm_webinar_v03_03",
+      "clm_webinar_v03_04"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  },
+  {
+    "id": "fw_bench",
+    "name": "Build a Sales Bench Before Your Best Closer Leaves",
+    "claim_ids": [
+      "clm_bench_v03_01",
+      "clm_bench_v03_02",
+      "clm_bench_v03_03"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  },
+  {
+    "id": "fw_followup",
+    "name": "How to Follow Up Without Being Pushy or Ignored",
+    "claim_ids": [
+      "clm_followup_v03_01",
+      "clm_followup_v03_02",
+      "clm_followup_v03_03"
+    ],
+    "status": "reviewed_article_synthesis",
+    "steps": [
+      "Consult the listed atomic claim IDs; preserve source context and uncertainty."
+    ],
+    "caveats": [
+      "Official article context; no exact transcript equivalence established",
+      "Business effectiveness unverified"
+    ]
+  }
+]

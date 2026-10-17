@@ -1,0 +1,177 @@
+[
+  {
+    "source_id": "src_8fcbd9bfebe72347",
+    "reason": "Native browser channel inventory supersedes failed cached web fetch / third-party ownership uncertainty",
+    "previous": {
+      "availability": "fetch_failed",
+      "body_extraction_state": "not_systematically_extracted",
+      "confidence": "high",
+      "content_sha256": null,
+      "id": "src_8fcbd9bfebe72347",
+      "kind": "youtube_video",
+      "locator": "Page title and visible metadata",
+      "notes": "Linked from official source src_4c48b97c483fb899. YouTube content fetch failed; date and timestamps unknown.",
+      "observed_date": "2026-10-16",
+      "official": true,
+      "processing_state": "metadata_reviewed",
+      "provenance": [
+        {
+          "discovery_url": "https://jeremyhaynes.com/confirmation-page-training-buyer-education/",
+          "method": "official_outbound_link",
+          "observed_date": "2026-10-16"
+        }
+      ],
+      "published_date": null,
+      "rights": "Metadata and original brief paraphrases only; no redistribution license inferred",
+      "timestamp_state": "not_reviewed",
+      "title": "The Last Video You’ll Ever Need On Confirmation Pages",
+      "transcript_state": "not_checked",
+      "url": "https://www.youtube.com/watch?v=sD55I_RH5ho"
+    },
+    "new_metadata": {
+      "title": "The Last Video You’ll Ever Need On Confirmation Pages",
+      "channel_membership_verified": true,
+      "availability": "public_page"
+    }
+  },
+  {
+    "source_id": "src_7e58e194065c21c4",
+    "reason": "Native browser channel inventory supersedes failed cached web fetch / third-party ownership uncertainty",
+    "previous": {
+      "availability": "unknown",
+      "body_extraction_state": "not_systematically_extracted",
+      "confidence": "low",
+      "content_sha256": null,
+      "id": "src_7e58e194065c21c4",
+      "kind": "youtube_video",
+      "locator": "Page title and visible metadata",
+      "notes": "Candidate video ID from third-party transcript/summary index. Channel ownership, source date, captions and continued availability need verification. No transcript copied.",
+      "observed_date": "2026-10-16",
+      "official": false,
+      "processing_state": "discovered",
+      "provenance": [
+        {
+          "discovery_url": "https://pickscribe.com/v/nRQy5Qb-qZg",
+          "method": "third_party_video_reference",
+          "observed_date": "2026-10-16"
+        }
+      ],
+      "published_date": null,
+      "rights": "Metadata and original brief paraphrases only; no redistribution license inferred",
+      "timestamp_state": "not_reviewed",
+      "title": "Strangers Buy Extremely Fast When You Do These 5 Things",
+      "transcript_state": "not_checked",
+      "url": "https://www.youtube.com/watch?v=nRQy5Qb-qZg"
+    },
+    "new_metadata": {
+      "title": "Strangers Buy Extremely Fast When You Do These 5 Things",
+      "channel_membership_verified": true,
+      "availability": "public_page"
+    }
+  },
+  {
+    "source_id": "src_583df1f44004ae5a",
+    "reason": "Native browser channel inventory supersedes failed cached web fetch / third-party ownership uncertainty",
+    "previous": {
+      "availability": "unknown",
+      "body_extraction_state": "not_systematically_extracted",
+      "confidence": "low",
+      "content_sha256": null,
+      "id": "src_583df1f44004ae5a",
+      "kind": "youtube_video",
+      "locator": "Page title and visible metadata",
+      "notes": "Candidate video ID from third-party transcript/summary index. Channel ownership, source date, captions and continued availability need verification. No transcript copied.",
+      "observed_date": "2026-10-16",
+      "official": false,
+      "processing_state": "discovered",
+      "provenance": [
+        {
+          "discovery_url": "https://videohighlight.com/v/KTuYaEra95w?aiFormatted=false&language=en&mediaType=youtube&summaryId=H3PKPwDYSCyVkspiwkhm&summaryType=default",
+          "method": "third_party_video_reference",
+          "observed_date": "2026-10-16"
+        }
+      ],
+      "published_date": null,
+      "rights": "Metadata and original brief paraphrases only; no redistribution license inferred",
+      "timestamp_state": "not_reviewed",
+      "title": "How To Turn Strangers Into Customers SO Fast It Feels ILLEGAL",
+      "transcript_state": "not_checked",
+      "url": "https://www.youtube.com/watch?v=KTuYaEra95w"
+    },
+    "new_metadata": {
+      "title": "How To Turn Strangers Into Customers SO Fast It Feels ILLEGAL",
+      "channel_membership_verified": true,
+      "availability": "public_page"
+    }
+  },
+  {
+    "source_id": "src_4bd98d59e0cb50c2",
+    "reason": "Native browser channel inventory supersedes failed cached web fetch / third-party ownership uncertainty",
+    "previous": {
+      "availability": "fetch_failed",
+      "body_extraction_state": "not_systematically_extracted",
+      "confidence": "high",
+      "content_sha256": null,
+      "id": "src_4bd98d59e0cb50c2",
+      "kind": "youtube_video",
+      "locator": "Page title and visible metadata",
+      "notes": "Linked from official source src_275fa7b24dda7017. YouTube content fetch failed; date and timestamps unknown.",
+      "observed_date": "2026-10-16",
+      "official": true,
+      "processing_state": "metadata_reviewed",
+      "provenance": [
+        {
+          "discovery_url": "https://jeremyhaynes.com/skills/fix-your-call-funnel/",
+          "method": "official_outbound_link",
+          "observed_date": "2026-10-16"
+        }
+      ],
+      "published_date": null,
+      "rights": "Metadata and original brief paraphrases only; no redistribution license inferred",
+      "timestamp_state": "not_reviewed",
+      "title": "Why Your Call Funnel Sucks",
+      "transcript_state": "not_checked",
+      "url": "https://www.youtube.com/watch?v=cnwyp7LstKY"
+    },
+    "new_metadata": {
+      "title": "Why Your Call Funnel SUCKS (And How To Make It Wildly Profitable)",
+      "channel_membership_verified": true,
+      "availability": "public_page"
+    }
+  },
+  {
+    "source_id": "src_6fe39b01b9eaf1cc",
+    "reason": "Direct browser succeeded after cached web tool failure",
+    "previous": {
+      "availability": "fetch_failed",
+      "body_extraction_state": "not_systematically_extracted",
+      "confidence": "high",
+      "content_sha256": null,
+      "id": "src_6fe39b01b9eaf1cc",
+      "kind": "youtube_channel",
+      "locator": "Page title and visible metadata",
+      "notes": "Official site links here. Accessible response was a stale footer without video listings. No public upload total verified.",
+      "observed_date": "2026-10-16",
+      "official": true,
+      "processing_state": "metadata_reviewed",
+      "provenance": [
+        {
+          "discovery_url": "https://www.youtube.com/@JeremyHaynesTraining/videos",
+          "method": "public_web_page",
+          "observed_date": "2026-10-16"
+        },
+        {
+          "method": "native_browser_channel_header_and_cards",
+          "discovery_url": "https://www.youtube.com/@JeremyHaynesTraining/videos",
+          "observed_date": "2026-10-16"
+        }
+      ],
+      "published_date": null,
+      "rights": "Metadata and original brief paraphrases only; no redistribution license inferred",
+      "timestamp_state": "not_applicable",
+      "title": "Jeremy Haynes official YouTube channel",
+      "transcript_state": "not_applicable",
+      "url": "https://www.youtube.com/@JeremyHaynesTraining/videos"
+    }
+  }
+]

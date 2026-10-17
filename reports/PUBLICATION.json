@@ -1,0 +1,15 @@
+{
+  "site_url": "https://jovial-pellet-79m7.here.now/",
+  "package_sha256": "82ee2f4f8cb26ece3dcffe7dc37b488b944f77cfeb526fcd3122d942c18c2912",
+  "browser_download": "passed",
+  "fresh_download_install_query": "passed",
+  "sample_citation": "https://jeremyhaynes.com/confirmation-page-training-buyer-education/",
+  "direct_python_fetch": "HTTP 403; public browser download succeeded; automated agents may need browser download",
+  "version": "0.4.0",
+  "here_now_state": "live",
+  "here_now_expires_at": "2026-10-18T00:05:58.716Z",
+  "github_state": "published_public",
+  "agent_install_entry": "https://jovial-pellet-79m7.here.now/AGENT_START.md",
+  "claim_url_excluded": "Ownership link is private to the user; deliberately not stored in this repository.",
+  "github_url": "https://github.com/wescalemarketing/jeremy-haynes-knowledge-base"
+}

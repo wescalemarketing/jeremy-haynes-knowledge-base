@@ -1,0 +1,8 @@
+{
+  "version": "0.4.0",
+  "tests": 20,
+  "retrieval_checks": 14,
+  "skill_validation": "passed",
+  "browser_preview": "title search and source-bearing notes verified",
+  "publication": "tracked separately after actual publish"
+}

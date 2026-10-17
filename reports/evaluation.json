@@ -1,0 +1,188 @@
+{
+  "scope": "Small offline retrieval smoke benchmark; not answer faithfulness or production readiness",
+  "passed": 14,
+  "total": 14,
+  "results": [
+    {
+      "id": "eval_1",
+      "passed": true,
+      "retrieved": [
+        "clm_confirm_01",
+        "clm_confirm_02",
+        "clm_confirm_04",
+        "clm_fix_02",
+        "clm_webinar_v03_02"
+      ],
+      "expected_any": [
+        "clm_confirm_01"
+      ]
+    },
+    {
+      "id": "eval_2",
+      "passed": true,
+      "retrieved": [
+        "clm_confirm_02",
+        "clm_confirm_05",
+        "clm_hammer_01",
+        "clm_webinar_v03_04"
+      ],
+      "expected_any": [
+        "clm_confirm_02"
+      ]
+    },
+    {
+      "id": "eval_3",
+      "passed": true,
+      "retrieved": [
+        "clm_ascension_v03_01",
+        "clm_bench_v03_03",
+        "clm_confirm_03",
+        "clm_creative_v03_03",
+        "clm_followup_v03_03"
+      ],
+      "expected_any": [
+        "clm_confirm_03"
+      ]
+    },
+    {
+      "id": "eval_4",
+      "passed": true,
+      "retrieved": [
+        "clm_bench_v03_02",
+        "clm_fix_01",
+        "clm_friction_v03_01",
+        "clm_friction_v03_04",
+        "clm_webinar_v03_04"
+      ],
+      "expected_any": [
+        "clm_fix_01"
+      ]
+    },
+    {
+      "id": "eval_5",
+      "passed": true,
+      "retrieved": [
+        "clm_confirm_02",
+        "clm_fix_03",
+        "clm_hammer_01",
+        "clm_hammer_02"
+      ],
+      "expected_any": [
+        "clm_hammer_01"
+      ]
+    },
+    {
+      "id": "eval_6",
+      "passed": true,
+      "retrieved": [
+        "clm_fix_02",
+        "clm_fix_03",
+        "clm_followup_v03_02",
+        "clm_hammer_01",
+        "clm_hammer_02"
+      ],
+      "expected_any": [
+        "clm_hammer_02"
+      ]
+    },
+    {
+      "id": "eval_7",
+      "passed": true,
+      "retrieved": [],
+      "expected_any": []
+    },
+    {
+      "id": "eval_8",
+      "passed": true,
+      "retrieved": [
+        "clm_bench_v03_02",
+        "clm_bench_v03_03",
+        "clm_friction_v03_01",
+        "clm_friction_v03_03",
+        "clm_friction_v03_04"
+      ],
+      "expected_any": [
+        "clm_friction_v03_01"
+      ]
+    },
+    {
+      "id": "eval_9",
+      "passed": true,
+      "retrieved": [
+        "clm_ascension_v03_01",
+        "clm_ascension_v03_03",
+        "clm_ascension_v03_04"
+      ],
+      "expected_any": [
+        "clm_ascension_v03_03"
+      ]
+    },
+    {
+      "id": "eval_10",
+      "passed": true,
+      "retrieved": [
+        "clm_creative_v03_01",
+        "clm_creative_v03_02",
+        "clm_creative_v03_03",
+        "clm_hammer_01",
+        "clm_pixel_v03_04"
+      ],
+      "expected_any": [
+        "clm_creative_v03_01"
+      ]
+    },
+    {
+      "id": "eval_11",
+      "passed": true,
+      "retrieved": [
+        "clm_creative_v03_03",
+        "clm_pixel_v03_01",
+        "clm_pixel_v03_02",
+        "clm_webinar_v03_03"
+      ],
+      "expected_any": [
+        "clm_pixel_v03_02"
+      ]
+    },
+    {
+      "id": "eval_12",
+      "passed": true,
+      "retrieved": [
+        "clm_webinar_v03_01",
+        "clm_webinar_v03_02",
+        "clm_webinar_v03_03",
+        "clm_webinar_v03_04"
+      ],
+      "expected_any": [
+        "clm_webinar_v03_03"
+      ]
+    },
+    {
+      "id": "eval_13",
+      "passed": true,
+      "retrieved": [
+        "clm_bench_v03_01",
+        "clm_bench_v03_03",
+        "clm_fix_01",
+        "clm_friction_v03_03",
+        "clm_hammer_02"
+      ],
+      "expected_any": [
+        "clm_bench_v03_01"
+      ]
+    },
+    {
+      "id": "eval_14",
+      "passed": true,
+      "retrieved": [
+        "clm_confirm_03",
+        "clm_followup_v03_01",
+        "clm_followup_v03_02",
+        "clm_followup_v03_03"
+      ],
+      "expected_any": [
+        "clm_followup_v03_03"
+      ]
+    }
+  ]
+}

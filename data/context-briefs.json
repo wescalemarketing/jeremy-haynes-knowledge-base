@@ -1,0 +1,115 @@
+[
+  {
+    "id": "brief_friction",
+    "title": "How Funnel Friction and Intent Affect Your Scale",
+    "context_source_id": "src_ec47d95a35c98278",
+    "context_url": "https://jeremyhaynes.com/how-funnel-friction-and-intent-levels-impact-your-scale-potential/",
+    "claim_ids": [
+      "clm_friction_v03_01",
+      "clm_friction_v03_02",
+      "clm_friction_v03_03",
+      "clm_friction_v03_04"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": [
+      "src_2b64e9aa029fb2d3"
+    ]
+  },
+  {
+    "id": "brief_ascension",
+    "title": "The Low to High Ticket Funnel That Pays for Its Own Ads",
+    "context_source_id": "src_90f4d50ac35786c3",
+    "context_url": "https://jeremyhaynes.com/low-ticket-to-high-ticket-funnel-liquidate-ad-spend/",
+    "claim_ids": [
+      "clm_ascension_v03_01",
+      "clm_ascension_v03_02",
+      "clm_ascension_v03_03",
+      "clm_ascension_v03_04"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": [
+      "src_af9e710bf0ee360b"
+    ]
+  },
+  {
+    "id": "brief_creative",
+    "title": "A Facebook Ad Creative Testing Strategy for Any Budget",
+    "context_source_id": "src_6d315e39c58a39d2",
+    "context_url": "https://jeremyhaynes.com/facebook-ad-creative-testing-strategy-for-budgets-from-500-to-30k-plus-daily/",
+    "claim_ids": [
+      "clm_creative_v03_01",
+      "clm_creative_v03_02",
+      "clm_creative_v03_03",
+      "clm_creative_v03_04"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": [
+      "src_d7e94a9e89432883"
+    ]
+  },
+  {
+    "id": "brief_pixel",
+    "title": "Meta Ads Scaling Through Messaging and Pixel Quality",
+    "context_source_id": "src_525f9e53cb670877",
+    "context_url": "https://jeremyhaynes.com/meta-ads-scaling-messaging-pixel-quality/",
+    "claim_ids": [
+      "clm_pixel_v03_01",
+      "clm_pixel_v03_02",
+      "clm_pixel_v03_03",
+      "clm_pixel_v03_04"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": [
+      "src_4b898ed554c93c50"
+    ]
+  },
+  {
+    "id": "brief_webinar",
+    "title": "How to Launch and Scale a Webinar Funnel",
+    "context_source_id": "src_8f0f1ba95dbd2daa",
+    "context_url": "https://jeremyhaynes.com/launch-scale-webinar-funnel-million-dollar-months/",
+    "claim_ids": [
+      "clm_webinar_v03_01",
+      "clm_webinar_v03_02",
+      "clm_webinar_v03_03",
+      "clm_webinar_v03_04"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": [
+      "src_8ef24cf4ced4e3ef"
+    ]
+  },
+  {
+    "id": "brief_bench",
+    "title": "Build a Sales Bench Before Your Best Closer Leaves",
+    "context_source_id": "src_cc2db1b50b59991e",
+    "context_url": "https://jeremyhaynes.com/build-sales-bench-before-closer-leaves/",
+    "claim_ids": [
+      "clm_bench_v03_01",
+      "clm_bench_v03_02",
+      "clm_bench_v03_03"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": []
+  },
+  {
+    "id": "brief_followup",
+    "title": "How to Follow Up Without Being Pushy or Ignored",
+    "context_source_id": "src_da8c75acb9746bbf",
+    "context_url": "https://jeremyhaynes.com/follow-up-prospects-without-being-pushy-getting-ignored/",
+    "claim_ids": [
+      "clm_followup_v03_01",
+      "clm_followup_v03_02",
+      "clm_followup_v03_03"
+    ],
+    "evidence_type": "reviewed_official_article",
+    "video_transcript_reviewed": false,
+    "related_video_source_ids": []
+  }
+]

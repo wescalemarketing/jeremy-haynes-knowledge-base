@@ -1,0 +1,110 @@
+[
+  {
+    "source_ids": [
+      "src_3ee59be2f4656dc1",
+      "src_f92acfd5343fd7a8"
+    ],
+    "titles": [
+      "If You Want To Blow Up Your Organic With Paid Ads, Read This",
+      "If You Want To Blow Up Your Organic With Paid Ads, Watch This"
+    ],
+    "jaccard": 0.846,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_49fe0ff90fea1779",
+      "src_fbcee9ab2cb3b021"
+    ],
+    "titles": [
+      "What This $1M/Mo Business Should Do Next To Scale (Live Breakdown)",
+      "What This $1.4M/Mo Business Should Do Next To Scale (Live Breakdown)"
+    ],
+    "jaccard": 0.769,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_17f243dc9a7d6c07",
+      "src_4d105f6301f02bcf"
+    ],
+    "titles": [
+      "How To Build A High-Converting Book Funnel (Step-By-Step)",
+      "How To Build A High-Converting Webinar Funnel (Step-By-Step)"
+    ],
+    "jaccard": 0.75,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_24afa1f42fbdd9c2",
+      "src_9d5b206a6742aace"
+    ],
+    "titles": [
+      "How To Create & Sell High-Ticket Recurring Offers (Full Breakdown)",
+      "How to Create and Sell High Ticket Recurring Offers"
+    ],
+    "jaccard": 0.75,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_72d60429ec2d7664",
+      "src_ecbdae607e28de24"
+    ],
+    "titles": [
+      "The Exact Step by Step Process of Scaling",
+      "The Exact Process Of Scaling To $1M/Month (Step-By-Step)"
+    ],
+    "jaccard": 0.714,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_4b898ed554c93c50",
+      "src_d290674c9a319035"
+    ],
+    "titles": [
+      "The Most Valuable Meta Ads Training You'll Ever Watch",
+      "The Most Valuable Webinar Training You'll Ever Watch"
+    ],
+    "jaccard": 0.7,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_d290674c9a319035",
+      "src_f27ca8e75cbc2b9e"
+    ],
+    "titles": [
+      "The Most Valuable Webinar Training You'll Ever Watch",
+      "The Most Valuable Call Funnel Training You'll Ever Watch"
+    ],
+    "jaccard": 0.7,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_e6eb5cb4664762db",
+      "src_ea3d7e493e51c1b2"
+    ],
+    "titles": [
+      "10 Years of Brutally Honest Advice on Facebook Ads",
+      "10 Years of Brutally Honest Facebook Ads Advice in 14 mins"
+    ],
+    "jaccard": 0.7,
+    "state": "needs_human_review"
+  },
+  {
+    "source_ids": [
+      "src_3b6bbc61b889885a",
+      "src_4475e76cef10399b"
+    ],
+    "titles": [
+      "Scaling Is a Gamble and Here Is How You Win",
+      "Scaling To $1M/Month Is A Gamble, Here’s How You Win"
+    ],
+    "jaccard": 0.667,
+    "state": "needs_human_review"
+  }
+]
