@@ -234,8 +234,8 @@
     },
     {
       "path": "reports/source-inventory.csv",
-      "bytes": 342110,
-      "sha256": "b9bc367dfb9779e7f17cbe80a27b07a45c25e4b387b6a7fab1f14bb9e875b5b2"
+      "bytes": 341659,
+      "sha256": "2c08437e2a2a57a940bed69a2be822b4a684df4a5c0784ae7e5f6ce8785fcacd"
     },
     {
       "path": "reports/tests.txt",
@@ -249,8 +249,8 @@
     },
     {
       "path": "reports/video-inventory.csv",
-      "bytes": 61476,
-      "sha256": "77a4faabcc5169bba1fcfd56f1deb9feb6990dd3d369ed1de61fbf03bbb08a22"
+      "bytes": 61208,
+      "sha256": "c2435c98cd96225161480be5c45587a0ff857b2a704da23c62f0d7bd2292b6dc"
     },
     {
       "path": "schemas/claim.schema.json",
